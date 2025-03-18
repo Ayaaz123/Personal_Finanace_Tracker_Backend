@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\ayaaz\\Desktop\\ProjectSample\\finanace_tracker\\server",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
